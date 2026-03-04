@@ -1,0 +1,144 @@
+SPRITES
+	Animated
+		Characters (see Models)
+		Redone Map
+	Non-Animated
+		UI
+			Button Preset
+			Cards
+				Display Sprite
+				Store Sprites
+					Red	(Blood)
+					Light-Blue (Sky)
+					Purple (Electric)
+			Coins
+			XP
+			Weapons
+				Pistol
+				Shotgun
+				Rifle (Railgun)
+				Turret ("Hey! This is a Placable Object")
+			Enemy Marker/Warning
+		Tower (see Models >> Buildings)
+		
+
+MODELS
+	Player
+	Enemies
+		Swordsman
+		Tank
+		Ranger
+	Objects
+		Sword (Swordsman)
+		Gun (Rangers)
+	Buildings
+		Tower Level 1
+			*Rubbish; broken down; smoking
+		Tower Level 2
+			*Cleaned up; like its purpose is still unknown
+		Tower Level 3
+			*Stable; Solid (not-dirty) Colors; Few furnitures
+		Tower Level 4
+			*Time machine nearly complete; Building is now Energized
+		Tower Level 5
+			*Fully built time machine; special aura
+		(See "Animations >> Videos" for any interior designing)
+
+		Turret
+	Props (wont need all this, but it creates scenes for the videos)
+		Any
+			Books (he's not a dummy)
+		Early
+			Broken Desks, Chairs, Laddrers
+			Broken Toys (not literally. only the "toys of science")
+			Rubble (Furniture, Time Machine)
+		Later
+			Schematics
+			Fixed Equipment
+			Workstation
+		Late Game
+			Toys, of Science
+			Fixed Time Machine
+		
+
+
+ANIMATIONS
+	Characters
+		States
+			Attacks
+				Sword (Swordsman)
+				Fist (Giant)
+				Kneel + Shoot Bow (Ranger)
+			Walking
+			Make Them Directional (NESW)
+	Videos
+		Store Animation
+			Tower Lvl 1: Sweeping Rubble
+
+				MC is sadly sweeping the floor in one spot...
+				is he even trying to fix the tower?
+
+			Tower Lvl 2: Pondering, tapping foot
+
+				MC is now standing in the middle of the room
+				tapping his foot, wondering where to go from here
+
+				The room is now populated with 1-2 desks and a chair
+				One of the desks has a schematic on it
+
+				The time machine still remains rubble
+
+			Tower Lvl 3: 
+	
+				MC is now spending more time, drawing blueprints
+				at his workstation
+
+				He seems to be devising a way to get out of here
+
+			Tower Lvl 4:
+				
+				MC is hammering away at some machine
+				Its totally not an epic time machine that will
+				transport him, his tools, and everything out
+				of this super prehistoric dimension
+
+				Will find out on the next episode of...
+
+			Tower Lvl 5:
+			
+				Wow that next episode came quickly, didn't it
+				MC is standing with his hands on his hips
+		
+				Yeah that's right! 
+
+				He did it all on his own. All while being
+				hit by onslaughts of the wicked and hungry
+
+				The time machine is done, and he's just taking
+				a moment to look at his efforts. Hopefully
+				going through this portal does not mean it will
+				all be left behind. Or maybe just the moment will
+				be what's lost.
+
+
+SOUNDS
+	Characters
+		Ranger
+			Gunshot
+			Building Shoot
+			Death
+		Giant
+			Building Punch
+			Grunt
+				* 3 Variants
+			Death
+		Swordsman
+			Building Slash
+			Grunt
+				* 3 Variants
+			Death
+		Player
+			Gun Sounds
+	Game Sounds
+	Foley (for Videos)
+	Music/Ambience
