@@ -11,14 +11,20 @@ SPRITES
 					Red	(Blood)
 					Light-Blue (Sky)
 					Purple (Electric)
-			Coins
-			XP
-			Weapons
-				Pistol
-				Shotgun
-				Rifle (Railgun)
-				Turret ("Hey! This is a Placable Object")
-			Enemy Marker/Warning
+			Indicators
+				Coins
+				XP
+				Weapons
+					Pistol
+					Shotgun
+					Rifle (Railgun)
+					Turret 
+						*One Sprite for Online, One for Offline
+				Enemy Warning (Marker)
+			Screens
+				GAME OVER
+				MAIN MENU
+				CARD SHOP (See Animations >> Videos >> Store Animation)
 		Tower (see Models >> Buildings)
 		
 
@@ -140,5 +146,14 @@ SOUNDS
 		Player
 			Gun Sounds
 	Game Sounds
+		Button Click
+		Tower Level Up!
+		Card Shop into (Book/Card Flipping)
 	Foley (for Videos)
+		Foot Tapping
+		Sweeping
+		Paper Rustling
 	Music/Ambience
+		Main Menu
+		Level
+		Card Shop
